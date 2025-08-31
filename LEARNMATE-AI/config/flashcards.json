@@ -1,0 +1,11 @@
+[
+  {
+    "question": "What is AI?",
+    "answer": "AI is the simulation of human intelligence by machines."
+  },
+  {
+    "question": "What is DeepSeek?",
+    "answer": "DeepSeek is an open-source LLM that runs locally via Ollama."
+  }
+]
+
